@@ -10,9 +10,9 @@ export default {
     caasySDKConfig: {
         siteId: '5f7cc20dc302c4fa0a961f8f'
     },
-    blogName: 'myBlog',
-    defaultTitle: 'my personal tech blog',
-    description: 'This blog showcases how to use Caasy and its official JS SDK. Please visit our website for more information. Caasy is developed and maintained by Mosaic.',
+    blogName: 'Exam Express',
+    defaultTitle: 'Exam Express',
+    description: 'Exam Express',
     // The default language is used to improve accessibility.
     // It is set on the HTML element. You can change this
     // to the main language of your content.
