@@ -8,7 +8,7 @@
  */
 export default {
     caasySDKConfig: {
-        siteId: '5f7cc20dc302c4fa0a961f8f'
+        siteId: '633ee93dfb3b2ba6f205d1e3'
     },
     blogName: 'Exam Express',
     defaultTitle: 'Exam Express',
